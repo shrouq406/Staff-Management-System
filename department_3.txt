@@ -1,0 +1,4 @@
+Department Number:3
+Department Name:IT
+==========================================
+staff department not found
